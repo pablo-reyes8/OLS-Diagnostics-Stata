@@ -15,14 +15,26 @@ This repository contains a single Stata do-file that implements a full suite of 
 5. **Endogeneity**  
 6. **Residual Normality**  
 7. **Outlier & Influence Detection**
+## Usage
+
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/your-username/OLS-Diagnostics-Stata.git
+   ```
+2. Open Stata and run the do-file
+3. Review the log output and graphs to identify any assumption violations.
+4. Apply the suggested corrective commands included in each section if needed.
 
 ---
 
 ## File Structure
+
+```plaintext
 .
-├── Regression Assumptions.do      # Main Stata script with all tests & remedies
-└── Lawsch85.xlsx                  # Data needed for run the same script
-└── README.md                      # This documentation
+├── Regression Assumptions.do   # Main Stata script with all tests & remedies
+├── Lawsch85.xlsx               # Dataset used to run the script
+└── README.md                   # Project documentation
+```
 
 ## Contribution
 
