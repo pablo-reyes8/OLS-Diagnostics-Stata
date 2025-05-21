@@ -36,6 +36,15 @@ This repository contains a single Stata do-file that implements a full suite of 
 └── README.md                   # Project documentation
 ```
 
+## Contributing
+
+Contributions are welcome! Please open issues or submit pull requests at  
+https://github.com/pablo-reyes8
+
+## License
+
+This project is licensed under the Apache License 2.0.  
+
 ## Contribution
 
 Feel free to open issues or submit pull requests to add more diagnostics, improve formatting, or support panel/time-series extensions.
